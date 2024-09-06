@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 👨‍💻I'm learning React JS.<br>
 💭Ask me about Android, Flutter, DSA, Cloud, Cyber security.<br>
 📫How to reach me **shubham.rawat1995@gmail.com**<br>
-🎉Fun fact about me is I love to deep dive into technology and I'm a photographer.<br><br><br>
+🎉Fun fact I love to deep dive into anything and I'm a photographer.<br><br><br>
 
 
 ## 🌐 Socials:
