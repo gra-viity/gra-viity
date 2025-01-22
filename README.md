@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-🐱‍💻I'm currently working as DevSecOps Engineer.<br>
+🐱‍💻I'm currently working as Software Engineer(Cloud Security).<br>
 👨‍💻I'm learning React JS.<br>
 💭Ask me about Android, Flutter, DSA, Cloud, Cyber security.<br>
 📫How to reach me **shubham.rawat1995@gmail.com**<br>
